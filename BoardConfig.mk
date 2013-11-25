@@ -23,7 +23,7 @@
 -include vendor/samsung/lt02wifi/BoardConfigVendor.mk
 
 # Target info
-USE_CAMERA_STUB := true
+USE_CAMERA_STUB := false
 BOARD_HAS_NO_SELECT_BUTTON := true
 
 TARGET_NO_BOOTLOADER := true
